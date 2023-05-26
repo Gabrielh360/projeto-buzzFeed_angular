@@ -1,4 +1,4 @@
-**#BuzzFeed Com Angular**
+**BuzzFeed Com Angular**
 
 Eu desenvoli um BuzzFedd utilizando o angular, eu fiz esse projeto pra um Desafio de Projeto do curso de angular que eu to fazendo na DIO, então eu me esforcei bastante e espero que tenha ficado bom, fiz um quiz com a tematica dos vingadores. 
 
