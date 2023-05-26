@@ -1,0 +1,29 @@
+<div class="quizz__container">
+  <div class="quizz_fundo">
+
+  </div>
+  <div class="quizz_logo">
+    <img src="assets/images/logo.png" alt="" srcset="">
+    <h3>{{ title }}</h3>
+  </div>
+
+  <div *ngIf=!finished class="quizz_questions">
+    <h3>{{ questionSelected.question }}</h3>
+  </div>
+
+  <div *ngIf=!finished class="quizz_options">
+    <button *ngFor="let option of questionSelected.options; let i = index" (click)="playerChoose(option.alias)" class="btn-option">
+      {{ option.name }}
+    </button>
+
+    <button class=" voltarQuestao" *ngIf="voltarQuestao" (click)="voltarQuestao()">◀ Voltar</button>
+  </div>
+
+  <div *ngIf=finished class="quizz_results">
+    <h1>O Seu resultado é:</h1>
+    <h3>{{ answerSelected }}</h3>
+    <img src="{{ imageResults }}" alt="" srcset="">
+    <p>{{ descriptionResults }}</p>
+    <button class="resetQuizz" (click)="resetQuizz()">Tentar Novamente</button>
+  </div>
+</div>

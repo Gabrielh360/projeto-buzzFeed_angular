@@ -1,0 +1,96 @@
+{
+  "title":"Qual Heroi da Marvel você seria ?",
+  "questions":[
+    {
+      "id":0,
+      "question": "Qual desses poderes você escolheria ?",
+      "options":[
+        {"id": 1, "name":"Inteligencia Avançada", "alias":"A"},
+        {"id": 2, "name":"Voar", "alias":["J", "C"]},
+        {"id": 3, "name":"Super Força", "alias":"D"},
+        {"id": 4, "name":"Fator de Cura", "alias":"K"},
+        {"id": 5, "name":"Sentidos Ampliados", "alias":["B", "E"]},
+        {"id": 6, "name":"Intangibilidade", "alias":"H"},
+        {"id": 7, "name":"Poder de conjurar Feitiços", "alias":"I"},
+        {"id": 9, "name":"Mestre em acrobacias", "alias":"F"},
+        {"id": 10, "name":"Mestre Arqueiro", "alias":"G"}
+      ]
+    },
+    {
+      "id":1,
+      "question": "Qual tipo de heroi você gostaria se ser ?",
+      "options":[
+        {"id": 1, "name":"Humano", "alias":["A", "F", "G"]},
+        {"id": 2, "name":"Mutante", "alias":"K"},
+        {"id": 3, "name":"Deus", "alias":"C"},
+        {"id": 4, "name":"Mistico", "alias":"I"},
+        {"id": 5, "name":"Alienigena", "alias":"J"},
+        {"id": 6, "name":"Modificado", "alias":["B", "D", "E"]},
+        {"id": 8, "name":"sintezóide", "alias":"H"}
+      ]
+    },
+    {
+      "id":2,
+      "question": "Escolha um vilão pra você enfrentar",
+      "options":[
+        {"id": 1, "name":"Mandarim", "alias":"A"},
+        {"id": 2, "name":"Caveira Vermelha", "alias":"B"},
+        {"id": 3, "name":"Loki", "alias":"C"},
+        {"id": 4, "name":"Maestro", "alias":"D"},
+        {"id": 5, "name":"Duende Verde", "alias":"E"},
+        {"id": 6, "name":"Yelena Belova", "alias":"F"},
+        {"id": 7, "name":"Espadachim", "alias":"G"},
+        {"id": 8, "name":"Ultron", "alias":"H"},
+        {"id": 9, "name":"Dormammu", "alias":"I"},
+        {"id": 10, "name":"Rocha Lunar", "alias":"J"},
+        {"id": 11, "name":"Dentes de Sabre", "alias":"K"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "Escolha a sua origem de super heroi:",
+      "options":[
+        {"id": 1, "name":"Contrui uma armadura poderosa e resolvi usala para o bem", "alias":"A"},
+        {"id": 2, "name":"Particpei de um programa do governo e me tornei um super soldado", "alias":"B"},
+        {"id": 3, "name":"Sou um deus asgardiano, também conhecido com Thor o Deus do Trocão", "alias":"C"},
+        {"id": 4, "name":"Depois um acidente, eu fui exposto a uma altíssima dose de raios gama", "alias":"D"},
+        {"id": 5, "name":"Ganhei super-poderes depois que uma aranha me picou", "alias":"E"},
+        {"id": 6, "name":"Fui treinado(a) desde jovem por organização porem resolvi lutar pelo bem", "alias":"F"},
+        {"id": 7, "name":"Fui um vilâo, porem decidi ir pro lado do bem", "alias":"G"},
+        {"id": 8, "name":"Fui um androide nascido do resultado de um corpo sintético de Vibranium", "alias":"H"},
+        {"id": 9, "name":"Sou meio humano(a) e meio Alienigena e aos poucos fui descobrindo meus poderes", "alias":"I"},
+        {"id": 10, "name":"Sofri um grave acidente de carro, até que ouvi falar de um tratamento espiritual", "alias":"J"},
+        {"id": 11, "name":"Sempre fui um mutante com garras de oço", "alias":"K"}
+      ]
+    },
+    {
+      "id":4,
+      "question": "Escolha uma arma para combater o crime ?",
+      "options":[
+        {"id": 1, "name":"Armadura", "alias":"A"},
+        {"id": 2, "name":"Escudo", "alias":"B"},
+        {"id": 3, "name":"Martelo", "alias":"C"},
+        {"id": 4, "name":"Lançador de Teias", "alias":"E"},
+        {"id": 5, "name":"Bastões", "alias":"F"},
+        {"id": 6, "name":"Arco e Flecha", "alias":"G"},
+        {"id": 7, "name":"Joia da Mente", "alias":"H"},
+        {"id": 8, "name":"Olho de Agamotto", "alias":"I"},
+        {"id": 9, "name":"Garras de Adamantium", "alias":"K"},
+        {"id": 10, "name":"Nâo preciso de arma, eu vou na força bruta", "alias":["D", "J"]}
+      ]
+    }
+  ],
+  "results":{
+    "A":{ "resultado": "Você muito provavelmente seria o Homem De Ferro", "descrição": "Você é bem parecido(a) com o Tony Stark, gênio, playboy, filamtropo, alguém que nunca leva desaforo pra casa 😎", "imagem":"https://imagensemoldes.com.br/wp-content/uploads/2020/05/Ilustra%C3%A7%C3%A3o-Iron-Man-Homem-de-Ferro-PNG.png"},
+    "B":{ "resultado": "Você muito provavelmente seria o Capitão America", "descrição": "Você é bem parecido(a) com o Steve Rogers, um Super Soldado, o Primeira Vingador 🛡", "imagem":"https://i.pinimg.com/originals/f2/e3/c9/f2e3c97fa6497e1e1691bed8075d9b15.png"},
+    "C":{ "resultado": "Você muito provavelmente seria o Thor", "descrição": "Você é bem parecido(a) com o Thor, o famoso Deus do Trovão 🔨", "imagem":"https://imagensemoldes.com.br/wp-content/uploads/2020/08/Thor-Ajoelhado-PNG.png"},
+    "D":{ "resultado": "Você muito provavelmente seria o Hulk", "descrição": "Você é bem parecido(a) com o Bruce Banner, também conhecido como Hulk, Hulk esmagaaaa 🧟‍♂️💪", "imagem":"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b188c950-e801-4079-8ede-f8cdac6f5b83/d59bwtp-3aca8845-d693-4e4d-9599-e49969d34d3b.png/v1/fill/w_753,h_1061/incredible_hulk__png_by_captainjackharkness_d59bwtp-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI2NyIsInBhdGgiOiJcL2ZcL2IxODhjOTUwLWU4MDEtNDA3OS04ZWRlLWY4Y2RhYzZmNWI4M1wvZDU5Ynd0cC0zYWNhODg0NS1kNjkzLTRlNGQtOTU5OS1lNDk5NjlkMzRkM2IucG5nIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.ua-ApAa7L6tqyZU099Ux-ObQyuUDvraPHQqN_0B9ZTI"},
+    "E":{ "resultado": "Você muito provavelmente seria o Homem Aranha", "descrição": "Você é bem parecido(a) com o Peter Parker, o Amigão da Vizinhaça Homem-Aranha 🧑🤘🕸", "imagem":"https://i.pinimg.com/originals/a7/6e/68/a76e68e6e9f995a01e09d23de93bd432.png"},
+    "F":{ "resultado": "Você muito provavelmente seria a Viuva Negra", "descrição": "Você é bem parecido(a) com a Viuva Negra 🤸‍♀️👩", "imagem":"https://www.pngmart.com/files/2/Black-Widow-Transparent-Background.png"},
+    "G":{ "resultado": "Você muito provavelmente seria o Gavião Arqueiro", "descrição": "Você é bem parecido(a) com o Gavião Arqueiro 🏹👦", "imagem":"https://4.bp.blogspot.com/-Je1u_HrLfyM/V1IeXct83VI/AAAAAAAAEPU/2lo8LFyqlAk9lAKoDowHxMUeDKcWYdzvACLcB/s1600/gaviao%2Barqueirorr.png"},
+    "H":{ "resultado": "Você muito provavelmente seria o Visão", "descrição": "Você é bem parecido(a) com o Visão, você não usou a Joia da Mente pra trapacear né ? 👁", "imagem":"https://www.pngplay.com/wp-content/uploads/12/Marvel-Vision-Download-Free-PNG.png"},
+    "I":{ "resultado": "Você muito provavelmente seria o Doutor estranho", "descrição": "Você é bem parecido(a) com o Doutor Estranho, o mago supremo 🧙‍♂️✨", "imagem":"https://www.imagensempng.com.br/wp-content/uploads/2022/03/44.png"},
+    "J":{ "resultado": "Você muito provavelmente seria a Capitã marvel", "descrição": "Você é bem parecido(a) com a Capitã Marvel 👩‍🦰✨", "imagem":"https://i.pinimg.com/originals/d2/19/2d/d2192d585d5b7bfae487a9195e014b82.png"},
+    "K":{ "resultado": "Você muito provavelmente seria o Wolverine", "descrição": "Você é bem parecido(a) com o Wolverine 🧔👊", "imagem":"https://pngimg.com/d/wolverine_PNG45.png"}
+  }
+}
